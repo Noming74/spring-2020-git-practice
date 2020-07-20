@@ -3,3 +3,6 @@ pink
 green
 black
 yellow
+apricot
+white
+violet
